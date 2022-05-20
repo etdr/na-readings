@@ -49,6 +49,7 @@ h1 {
 }
 
 p {
-  max-width: 30rem;
+  max-width: 32rem;
   margin: 1rem auto 0;
+  text-indent: 2rem;
 }

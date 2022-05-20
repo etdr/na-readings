@@ -37,8 +37,10 @@ main.red { background-color: #F66; }
 
 main.green { background-color: #6F8; }
 
-main.purple { background-color: #C7F; }
+main.purple { background-color: #86F; }
 
 main.orange { background-color: #FC7; }
+
+main.pink { background-color: #F6B; }
 
 </style>

@@ -32,6 +32,7 @@ import '../app.css'
     <li><a href="/r/we-do-recover">We Do Recover</a></li>
     <li><a href="/r/secular-preamble">Secular Preamble</a></li>
     <li><a href="/r/a-journey">A [Spiritual] Journey</a></li>
+    <li><a href="/r/just-for-today">Just for Today</a></li>
   </ul>
 </nav>
 
@@ -70,14 +71,14 @@ a {
   color: white;
 }
 
-button {
+/* button {
   color: white;
   border: none;
   margin: 0 1rem;
   padding: 0;
   background-color: black;
   font-size: 200%;
-}
+} */
 
 footer p {
   font-size: 0.8rem;
