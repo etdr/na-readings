@@ -39,7 +39,7 @@ main.green { background-color: #6F8; }
 
 main.purple { background-color: #86F; }
 
-main.orange { background-color: #FC7; }
+main.orange { background-color: #FB6; }
 
 main.pink { background-color: #F6B; }
 
