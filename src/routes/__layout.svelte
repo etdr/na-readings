@@ -56,6 +56,7 @@ ul {
   padding-inline-start: 0;
   height: 100%;
   margin-left: 16px;
+  height: 60vh;
 }
 
 li {
